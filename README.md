@@ -1,3 +1,9 @@
+# Strapi Data Import
+
+From wordpress or other data source
+
+`curl --location 'http://localhost:1337/api/posts/import' --header 'Authorization: bearer XXXXXX`
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
